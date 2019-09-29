@@ -1,0 +1,24 @@
+/*This is a custom style*/
+
+.login {
+    height: 667px;
+}
+
+.footer {
+    color: gray;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+.test {
+    border: 1px solid black;
+}
+
+.post-message {
+    resize: none;
+}
+
+.cover_image {
+    width: 336px;
+    height: 189px;
+}
